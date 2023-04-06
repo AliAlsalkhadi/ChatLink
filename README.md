@@ -10,8 +10,8 @@ To install the application, follow these steps:
 2. Install dependencies: `npm install`
 3. Create a ChatEngine.io account and obtain your credentials.
 4. Create a `.env` file with your ChatEngine.io credentials:
-    REACT_APP_CHAT_ENGINE_PROJECT_ID=<your-project-id>
-    REACT_APP_CHAT_ENGINE_PRIVATE_KEY=<your-private-key>
+    -REACT_APP_CHAT_ENGINE_PROJECT_ID=<your-project-id>
+    -REACT_APP_CHAT_ENGINE_PRIVATE_KEY=<your-private-key>
 5. Start the server: `npm start`
 
 ## Usage
