@@ -14,6 +14,19 @@ To install the application, follow these steps:
     -REACT_APP_CHAT_ENGINE_PRIVATE_KEY=<your-private-key>
 5. Start the server: `npm start`
 
+## Run
+
+To run the application, you will need to open two separate terminal windows:
+
+1. In the first terminal window, navigate to the backend directory of the project and run the following command:<br>
+npm run start
+
+2. In the second terminal window, navigate to the frontend directory of the project and run the following command:<br>
+npm run dev
+
+This will start your frontend development server and open your web application in a browser window. You can now use your web application by interacting with it through your browser window.
+
+
 ## Usage
 
 To use the application, open it in your web browser at `http://localhost:3001`. You will be prompted to create an account or log in if you already have one. Once you are logged in, you can join chat rooms and communicate with other users in real-time.
